@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'cm';
+    src: url("cmunrm.ttf");
+  }
+h3 {
+    font-family: 'cm';
+    font-weight: normal;
+}
+p {
+    font-family: 'cm';
+    display: inline;
+    font-size: 16px;
+}
+input {
+    font-family: 'cm';
+    font-size: 16px;
+}
+button {
+    font-family: 'cm';
+    font-size: 16px;
+}
+.prob {
+    font-size: 32px;
+}
+.ans {
+    font-size: 24px;
+}
+body {
+    margin: 30px;
+}
